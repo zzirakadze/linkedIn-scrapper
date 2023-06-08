@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+venv/
+LICENSE.chromedriver
+*.csv
+__pycache__/
+*.pyc
